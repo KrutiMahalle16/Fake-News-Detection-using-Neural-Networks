@@ -13,15 +13,15 @@ This project involves developing two deep learning models to classify news artic
 2. Bidirectional LSTM (Long Short-Term Memory) using tokenized and padded sequences.
 
 #### Workflow:
- Load and label two datasets (Fake.csv and True.csv).
- Combine, shuffle, and preprocess the textual data.
- For the FNN model:
+####  Load and label two datasets (Fake.csv and True.csv).
+####  Combine, shuffle, and preprocess the textual data.
+####  For the FNN model:
 o Use TfidfVectorizer to convert text into numerical features.
 o Train a dense neural network to perform binary classification.
- For the LSTM model:
+####  For the LSTM model:
 o Tokenize and pad text sequences.
 o Train a Bidirectional LSTM network with embedding.
- Evaluate both models using accuracy and confusion matrix visualizations.
+####  Evaluate both models using accuracy and confusion matrix visualizations.
 
 ### ��️ Dataset Link
 The datasets used in this project are:
