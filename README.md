@@ -23,5 +23,8 @@ o Tokenize and pad text sequences.
 o Train a Bidirectional LSTM network with embedding.
  Evaluate both models using accuracy and confusion matrix visualizations.
 
-
+��️ Dataset Link
+The datasets used in this project are:
+ Fake.csv: Download from Kaggle
+ True.csv: Download from Kaggle
 
