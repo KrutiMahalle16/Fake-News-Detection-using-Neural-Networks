@@ -28,3 +28,11 @@ The datasets used in this project are:
 ###  Fake.csv: Download from Kaggle
 ###  True.csv: Download from Kaggle
 
+## ✅ Conclusion
+This project demonstrates the effectiveness of deep learning models in tackling the critical problem of fake news detection. By comparing a traditional Feedforward Neural Network (FNN) with a more advanced Bidirectional LSTM, we observe how different approaches handle textual data for binary classification. The FNN, powered by TF-IDF features, offers simplicity and speed, while the LSTM captures the sequential nature of language for improved context understanding.
+
+Both models achieve promising results, and the project highlights the importance of Natural Language Processing (NLP) in building automated systems to combat misinformation. With further enhancements, such as the inclusion of attention mechanisms or transformer-based architectures (e.g., BERT), accuracy and generalization could be improved even more.
+
+This work provides a strong foundation for building real-world fake news detection tools.
+
+
