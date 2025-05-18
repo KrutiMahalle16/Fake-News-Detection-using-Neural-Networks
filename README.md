@@ -22,3 +22,6 @@ o Train a dense neural network to perform binary classification.
 o Tokenize and pad text sequences.
 o Train a Bidirectional LSTM network with embedding.
  Evaluate both models using accuracy and confusion matrix visualizations.
+
+
+
